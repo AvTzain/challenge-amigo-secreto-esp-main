@@ -31,3 +31,5 @@ function sortearAmigo() {
 
     Resultado.innerHTML = (`<li>El amigo Secreto es: ${amigoSecreto}</li>`);
 };
+
+//terminado
